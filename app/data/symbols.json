@@ -1,0 +1,32 @@
+[
+  {
+    "Ticker": "SPY",
+    "Price": 288.63,
+    "companyName": "SPDR S&P 500"
+  },
+  {
+    "Ticker": "CMCSA",
+    "Price": 40.41,
+    "companyName": "Comcast Corporation Class A Common Stock"
+  },
+  {
+    "Ticker": "KMI",
+    "Price": 20.05,
+    "companyName": "Kinder Morgan Inc."
+  },
+  {
+    "Ticker": "INTC",
+    "Price": 55.6,
+    "companyName": "Intel Corporation"
+  },
+  {
+    "Ticker": "MU",
+    "Price": 43.32,
+    "companyName": "Micron Technology Inc."
+  },
+  {
+    "Ticker": "GDX",
+    "Price": 22.44,
+    "companyName": "VanEck Vectors Gold Miners"
+  }
+]

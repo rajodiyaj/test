@@ -1,0 +1,20 @@
+{
+  "presets": ["module:metro-react-native-babel-preset"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "extensions": [".ios.js", ".android.js", ".js", ".json", ".ts", ".tsx"],
+        "root": ["./app"],
+        "alias": {
+          "@screens": "stock-app/app/screens",
+          "@components": "stock-app/app/components",
+          "@lib": "stock-app/app/lib",
+          "@assets": "stock-app/app/assets",
+          "@i18n": "stock-app/app/i18n",
+          "@data": "stock-app/app/data"
+        }
+      }
+    ]
+  ]
+}

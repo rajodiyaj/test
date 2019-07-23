@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderRadius": 10,
+        "padding": 2,
+        "paddingLeft": 7,
+        "paddingRight": 7,
+      },
+      Object {
+        "backgroundColor": "#00AF64",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#3d3d3d",
+          "fontFamily": "BrandonText-Medium",
+          "fontSize": 14,
+        },
+        Object {
+          "color": "#FFF",
+        },
+      ]
+    }
+  >
+    BUY
+  </Text>
+</View>
+`;
